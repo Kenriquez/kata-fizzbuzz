@@ -1,4 +1,4 @@
-<img alt="Codacy branch coverage" src="image/fizzbuzz.png">
+<img alt="Codacy branch coverage" src="image/fizzbuzz.jpg">
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/bba01436c0c04e9296748f93c56ef57c)](https://www.codacy.com/gh/Kenriquez/kata-fizzbuzz/dashboard?utm_source=github.com&utm_medium=referral&utm_content=Kenriquez/kata-fizzbuzz&utm_campaign=Badge_Coverage)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Kenriquez/kata-fizzbuzz?label=repo%20Size">
