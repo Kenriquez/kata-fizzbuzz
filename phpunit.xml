@@ -25,10 +25,5 @@
     <php>
         <env name="APP_HOST" value="kevinGCode.php" />
         <env name="XDEBUG_MODE" value="coverage" />
-        <env name="CODACY_API_TOKEN" value="nsbuvxqf9pAOI6aE3d8F" />
-        <env name="CODACY_ORGANIZATION_PROVIDER" value="gh" />
-        <env name="CODACY_USERNAME" value="Kenriquez" />
-        <env name="CODACY_PROJECT_NAME" value="kata-fizzbuzz" />
-        <env name="CODACY_PROJECT_TOKEN" value="ce24a2e432ba4a5fb32e82c4b531ec31" />
     </php>
 </phpunit>
