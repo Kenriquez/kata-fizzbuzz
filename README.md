@@ -1,8 +1,9 @@
 <img alt="Codacy branch coverage" src="image/fizzbuzz.png">
 
-![GitHub](https://img.shields.io/github/license/aagamezl/static-site-generator) 
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/bba01436c0c04e9296748f93c56ef57c)](https://www.codacy.com/gh/Kenriquez/kata-fizzbuzz/dashboard?utm_source=github.com&utm_medium=referral&utm_content=Kenriquez/kata-fizzbuzz&utm_campaign=Badge_Coverage)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Kenriquez/kata-fizzbuzz?label=Repo%20Size">
+![GitHub all releases](https://img.shields.io/github/downloads/Kenriquez/kata-fizzbuzz/total?label=Downloads)
+
 
 ## FizzBuzz
 Es un test conocido por muchos empleadores que se utiliza para descartar candidatos, este consiste en escribir un código en cualquier lenguaje de programación que debe realizar la siguiente tarea: escribir un programa que muestre en pantalla los números del 1 al 100, sustituyendo los números divisibles por 3 por la palabra “Fizz”, los números divisibles por 5 por “Buzz” y aquellos números divisibles por ambos, es decir, por 3 y 5, por la palabra “FizzBuzz”
